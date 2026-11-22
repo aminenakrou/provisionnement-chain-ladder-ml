@@ -83,7 +83,7 @@ Durée : environ 1 minute.
 ## Structure
 
 ```
-├── notebooks/            # notebook pas à pas, déjà exécuté
+├── notebooks/              # notebook pas à pas, déjà exécuté
 ├── main.py                 # backtest complet
 ├── src/
 │   ├── data.py             # téléchargement CAS, contrôle qualité, triangles 10 × 10
