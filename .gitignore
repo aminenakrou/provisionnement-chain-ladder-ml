@@ -1,0 +1,11 @@
+# Environnement
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Données CAS téléchargées par le script, non versionnées
+data/
+
+.DS_Store
+Thumbs.db

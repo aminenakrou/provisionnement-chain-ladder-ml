@@ -1,0 +1,8 @@
+branche,triangles,chain_ladder_erreur_abs_mediane_pct_reserve,chain_ladder_rmse_pct_prime,chain_ladder_biais_total_pct,cape_cod_erreur_abs_mediane_pct_reserve,cape_cod_rmse_pct_prime,cape_cod_biais_total_pct,ml_erreur_abs_mediane_pct_reserve,ml_rmse_pct_prime,ml_biais_total_pct,ml_meilleur_que_cl_pct,couverture_mack_95_pct
+Toutes branches,343,25.00,6.60,12.83,25.74,5.42,14.64,23.60,4.53,-5.98,56.27,76.68
+Auto commerciale,83,24.66,5.71,8.15,25.51,5.03,2.54,21.39,4.45,-9.90,59.04,85.54
+RC médicale,12,42.49,15.11,31.64,17.31,6.97,-4.63,31.10,7.61,3.51,75.00,66.67
+RC générale,93,35.93,6.25,35.88,28.00,6.01,15.94,38.68,5.36,-4.07,55.91,87.10
+Auto particuliers,86,20.66,4.86,10.87,24.61,4.61,17.79,17.14,3.45,-7.61,55.81,69.77
+RC produits,13,21.70,14.85,9.61,30.96,9.59,-22.21,35.40,5.99,-20.27,38.46,84.62
+Accidents du travail,56,24.07,4.17,7.57,29.53,4.28,17.64,21.06,3.07,5.97,53.57,57.14
