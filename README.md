@@ -65,6 +65,8 @@ Détail par branche : [`outputs/resume_par_branche.csv`](outputs/resume_par_bran
 
 ![Réserves estimées contre réelles](outputs/figures/reserves_estimees_vs_reelles.png)
 
+**Notebook pas à pas :** [`notebooks/analyse_provisionnement.ipynb`](notebooks/analyse_provisionnement.ipynb) reprend la validation sur RAA, un exemple de triangle, le backtest complet et les graphiques, déjà exécutés. Il s'affiche directement sur GitHub, sans rien installer.
+
 ## Lancer le projet
 
 ```bash
@@ -81,6 +83,7 @@ Durée : environ 1 minute.
 ## Structure
 
 ```
+├── notebooks/            # notebook pas à pas, déjà exécuté
 ├── main.py                 # backtest complet
 ├── src/
 │   ├── data.py             # téléchargement CAS, contrôle qualité, triangles 10 × 10
